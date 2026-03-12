@@ -1,6 +1,4 @@
-# Starter-pack
-
-# What is this
+# Starter-pack (What is this)
 It's just a tool that makes it easier for you to play with the terminal, download several programming languages, and the needs for your terminal
 
 # How to use? 🚀
@@ -28,7 +26,7 @@ sudo apt install unzip zip -y
 sudo git clone https://github.com/GoldenZhedder409/Starter-pack.git
 cd Starter-pack
 chmod +x Ubuntu-Ultimate.sh
-sudo bash Ubuntu-Ultimate.sh
+./Ubuntu-Ultimate.sh
 ```
 
 ### Arch Linux (Laptop/PC)🖥️
@@ -43,9 +41,10 @@ sudo pacman -S net-tools nmap wireshark-qt
 sudo pacman -S unzip zip p7zip
 sudo git clone https://github.com/GoldenZhedder409/Starter-pack.git
 cd Starter-pack
-chmod +x Ubuntu-Ultimate.sh
-sudo bash Ubuntu-Ultimate.sh
+chmod +x Arch-Ultimate.sh
+./Arch-Ultimate.sh
 cd ~
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
+```
