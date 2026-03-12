@@ -53,7 +53,7 @@ makepkg -si
 ---
 
 # About the developer (Who is he?)
-He is GoldenZhedder409 with the abbreviation GolDer409, he just created some useful tools, he is an expert in the red team, what are you waiting for?, follow him ""
+He is GoldenZhedder409 with the abbreviation GolDer409, he just created some useful tools, he is an expert in the red team, what are you waiting for?, follow him "https://github.com/GoldenZhedder409"
 
 ### Support me 💰
 Just give as much as you like, if you like, please donate to my XMR wallet:
