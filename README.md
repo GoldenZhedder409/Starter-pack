@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_0000000085207208ae1bca4575597fbe" width="400">
+  <img src="file_0000000085207208ae1bca4575597fbe.png" width="400">
 </p>
 
 # Starter-pack (What is this)
