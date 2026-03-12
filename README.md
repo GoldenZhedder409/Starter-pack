@@ -1,5 +1,7 @@
 # Starter-pack (What is this)
-It's just a tool that makes it easier for you to play with the terminal, download several programming languages, and the needs for your terminal
+This is a tool that makes it easier for you to play with the terminal, starting from downloading the requirements, adding tools, then installing several languages, this tool is available for (Termux, Ubuntu and Arch) 👍🏻
+
+---
 
 # How to use? 🚀
 ### Termux (Mobile/Android)📱
@@ -48,3 +50,10 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 ```
+---
+
+# About the developer (Who is he?)
+He is GoldenZhedder409 with the abbreviation GolDer409, he just created some useful tools, he is an expert in the red team, what are you waiting for?, follow him ""
+
+### Support me 💰
+Just give as much as you like, if you like, please donate to my XMR wallet:
